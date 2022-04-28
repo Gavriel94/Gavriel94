@@ -291,7 +291,7 @@ function nextPrev(n, last) {
 }
 
 function complete() {
-//nextPrev(currentTab, true)
+nextPrev(currentTab, true)
 var s = "spaces"
 var obj = {
     spaces: groups
